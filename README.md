@@ -26,7 +26,7 @@
 ## 📦 Getting Started
 
 ```
-git clone https://github.com/hodgef/js-library-boilerplate.git myLibrary
+git clone https://github.com/Zodaka/js-library-boilerplate.git myLibrary
 npm install
 ```
 
@@ -60,16 +60,3 @@ let MyLibrary = window.MyLibrary.default;
 let libraryInstance = new MyLibrary();
 ...
 ```
-
-## ✅ Libraries built with this boilerplate
-
-> Made a library using this starter kit? Share it here by [submitting a pull request](https://github.com/hodgef/js-library-boilerplate/pulls)!
-
-- [hovercard](https://github.com/AnandChowdhary/hovercard) - Wikipedia summary cards for the web
-- [perfect-immutable](https://github.com/Lukasz-pluszczewski/perfect-immutable) - Library to provide immutable methods
-- [react-simple-keyboard](https://github.com/hodgef/react-simple-keyboard) - React Virtual Keyboard
-- [redux-better-promise](https://github.com/Lukasz-pluszczewski/redux-better-promise) - Simple and powerful redux middleware
-- [redux-breeze](https://github.com/Lukasz-pluszczewski/reduxBreeze) - Powerful redux wrapper
-- [regex-colorizer](https://github.com/geongeorge/regex-colorizer) - Highlighter for Javascript regex syntax
-- [simple-keyboard](https://github.com/hodgef/simple-keyboard) - Javascript Virtual Keyboard
-- [simple-keyboard-layouts](https://github.com/hodgef/simple-keyboard-layouts) - Layout kit for simple-keyboard
